@@ -1,2 +1,2 @@
-# new-rep
-cbs
+# Guacamole recipe
+This repoitry cotains recipe for guacamole
